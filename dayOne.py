@@ -46,11 +46,7 @@ def dayOnePartTwo(sum):
     for digit in firstAndLasts:
         sum += int(digit)
     print(firstAndLasts)
-    print(sum)
-
-
-
-        
+    print(sum)    
 
 print(numberList)
 
