@@ -45,7 +45,6 @@ What is the sum of all of the calibration values?
 
 52834
 # --- Day 2: Cube Conundrum ---
-
 You're launched high into the atmosphere! The apex of your trajectory just barely reaches the surface of a large island floating in the sky. You gently land in a fluffy pile of leaves. It's quite cold, but you don't see much snow. An Elf runs over to greet you.
 
 The Elf explains that you've arrived at Snow Island and apologizes for the lack of snow. He'll be happy to explain the situation, but it's a bit of a walk, so you have some time. They don't get many visitors up here; would you like to play a game in the meantime?
@@ -85,4 +84,4 @@ Determine which games would have been possible if the bag had been loaded with o
 
 To begin, get your puzzle input.
 
-Answer: 
+Answer: 2476
