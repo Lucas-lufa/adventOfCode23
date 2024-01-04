@@ -72,10 +72,6 @@ def dayTwoPartTwo():
     print(sum(sumList))
                 
 
-
-
-
-
 def main():
     """ """
     dayTwoPartTwo()
