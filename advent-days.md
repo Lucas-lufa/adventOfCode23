@@ -143,4 +143,4 @@ Of course, the actual engine schematic is much larger. What is the sum of all of
 
 To begin, get your puzzle input.
 
-Answer:
+Answer:507214
